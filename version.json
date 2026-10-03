@@ -1,10 +1,10 @@
 {
-  "tag": "v0.3.0",
-  "version": "0.3.0",
-  "changelog": "বাগ ফিক্স: খরচ যোগ করলে এখন মোট ব্যালেন্স থেকে কমবে। ডিলিট করলে ফেরত আসবে। | Bug fix: adding an expense now reduces your total balance from the matching wallet. Deleting refunds it back.",
+  "tag": "v0.4.0",
+  "version": "0.4.0",
+  "changelog": "আসল AI অ্যাসিস্ট্যান্ট এসেছে! স্বাভাবিকভাবে কথা বলুন — বাংলা/ইংরেজি বুঝবে, খরচ-আয় যোগ করবে, বাজেট-ওয়ালেট ম্যানেজ করবে, বিলের ছবিও পড়বে। | Meet your real AI assistant! Chat naturally — it understands Bangla/English, adds expenses and income, manages budgets and wallets, and even reads bill photos. Works out of the box.",
   "apks": {
-    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.3.0/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.3.0/app-armeabi-v7a-release.apk",
-    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.3.0/app-x86_64-release.apk"
+    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.4.0/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.4.0/app-armeabi-v7a-release.apk",
+    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.4.0/app-x86_64-release.apk"
   }
 }
