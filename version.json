@@ -1,10 +1,10 @@
 {
-  "tag": "v0.2.7",
-  "version": "0.2.7",
-  "changelog": "আমার টাকা কার্ড: উপরে মোট ব্যালেন্স, হাতের নগদ এডিট করা যাবে, আজ/সপ্তাহ/মাসের খরচের হিসাব। | My Money card: total at the top, hand cash editable, today/week/month spending summary.",
+  "tag": "v0.2.8",
+  "version": "0.2.8",
+  "changelog": "আমার টাকায় হাতের নগদ ফিরেছে। নেভবার: বড় Add বাটন, থিমের রঙ, ভিডিওর মতো মসৃণ অ্যানিমেশন। | My Money: cash in hand is back. Navbar: bigger Add button, theme-matched colors, smoother video-style switching animation.",
   "apks": {
-    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.7/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.7/app-armeabi-v7a-release.apk",
-    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.7/app-x86_64-release.apk"
+    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.8/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.8/app-armeabi-v7a-release.apk",
+    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.8/app-x86_64-release.apk"
   }
 }
