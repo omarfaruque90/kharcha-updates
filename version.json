@@ -1,1 +1,10 @@
-{"apks":{"arm64-v8a":"https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.1/app-arm64-v8a-release.apk","armeabi-v7a":"https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.1/app-armeabi-v7a-release.apk","x86_64":"https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.1/app-x86_64-release.apk"},"changelog":"Custom category save fix (categories now appear after saving), mic button replaced with calendar shortcut in add expense, save button text readable in light mode, background update notifications. All v5.0.2 features included.","tag":"v0.1","version":"0.1.0"}
+{
+  "tag": "v0.1.1",
+  "version": "0.1.1",
+  "changelog": "Light mode-e chip text fix: payment method ar home filter chip-er lekha ekhon dark green, readable. Same signing key — no re-login/data loss.",
+  "apks": {
+    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.1.1/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.1.1/app-armeabi-v7a-release.apk",
+    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.1.1/app-x86_64-release.apk"
+  }
+}
