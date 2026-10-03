@@ -1,10 +1,10 @@
 {
-  "tag": "v0.2.8",
-  "version": "0.2.8",
-  "changelog": "আমার টাকায় হাতের নগদ ফিরেছে। নেভবার: বড় Add বাটন, থিমের রঙ, ভিডিওর মতো মসৃণ অ্যানিমেশন। | My Money: cash in hand is back. Navbar: bigger Add button, theme-matched colors, smoother video-style switching animation.",
+  "tag": "v0.2.9",
+  "version": "0.2.9",
+  "changelog": "হোমে এখন উপরে মোট ব্যালেন্স দেখাবে (নগদ + ওয়ালেট + ধার দেওয়া)। | Home now shows your total balance (cash + wallets + lent out) at the top.",
   "apks": {
-    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.8/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.8/app-armeabi-v7a-release.apk",
-    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.8/app-x86_64-release.apk"
+    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.9/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.9/app-armeabi-v7a-release.apk",
+    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.9/app-x86_64-release.apk"
   }
 }
