@@ -1,10 +1,10 @@
 {
-  "tag": "v0.2.9",
-  "version": "0.2.9",
-  "changelog": "হোমে এখন উপরে মোট ব্যালেন্স দেখাবে (নগদ + ওয়ালেট + ধার দেওয়া)। | Home now shows your total balance (cash + wallets + lent out) at the top.",
+  "tag": "v0.3.0",
+  "version": "0.3.0",
+  "changelog": "বাগ ফিক্স: খরচ যোগ করলে এখন মোট ব্যালেন্স থেকে কমবে। ডিলিট করলে ফেরত আসবে। | Bug fix: adding an expense now reduces your total balance from the matching wallet. Deleting refunds it back.",
   "apks": {
-    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.9/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.9/app-armeabi-v7a-release.apk",
-    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.9/app-x86_64-release.apk"
+    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.3.0/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.3.0/app-armeabi-v7a-release.apk",
+    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.3.0/app-x86_64-release.apk"
   }
 }
