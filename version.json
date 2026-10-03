@@ -1,10 +1,10 @@
 {
-  "tag": "v0.2.2",
-  "version": "0.2.2",
-  "changelog": "বাগ ফিক্স: খরচ ডাবল-কাউন্ট ঠিক — id দিয়ে ডিডুপ্লিকেশন safety net, একবারের amount আর দুইবার গণনা হবে না। v0.2.1-এর double-tap save guard সহ। | Bug fix: expense double-count fixed — dedupe-by-id safety net, a once-entered amount can never count twice. Includes v0.2.1 double-tap save guard.",
+  "tag": "v0.2.3",
+  "version": "0.2.3",
+  "changelog": "প্রতিটি স্ক্রিনে একটাই '+' বাটন। AI চ্যাটে মাইক এখন ভেতরে (বাংলা/ইংরেজি ভয়েস)। Assistant এখন কাজ করে — চ্যাট থেকেই খরচ/আয় যোগ, বাজেট সেট, শেষ খরচ ডিলিট। নতুন: বিল স্ক্যান — ছবি তুলুন বা গ্যালারি থেকে নিন, টাকা পড়ে খরচ অটো যোগ হবে। | One clear '+' add button per screen. AI chat mic inside the box (Bangla/English voice). Assistant takes action — add expense/income, set budget, delete last expense from chat. NEW: bill scan — snap or pick from gallery, amount is read and the expense auto-added.",
   "apks": {
-    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.2/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.2/app-armeabi-v7a-release.apk",
-    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.2/app-x86_64-release.apk"
+    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.3/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.3/app-armeabi-v7a-release.apk",
+    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.3/app-x86_64-release.apk"
   }
 }
