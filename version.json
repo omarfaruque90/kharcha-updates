@@ -1,10 +1,10 @@
 {
-  "tag": "v0.2.1",
-  "version": "0.2.1",
-  "changelog": "নতুন লেআউট: Settings bam upore, AI assistant dan upore, More tab (Track/Plan/Tools/Insights). New: Notes, category customization, reports period presets, BD holidays. Fix: double-tap duplicate guard. | New layout: settings top-left, AI top-right, More tab. New: Notes, category customization, period presets, BD holidays. Fix: double-tap guard.",
+  "tag": "v0.2.2",
+  "version": "0.2.2",
+  "changelog": "বাগ ফিক্স: খরচ ডাবল-কাউন্ট ঠিক — id দিয়ে ডিডুপ্লিকেশন safety net, একবারের amount আর দুইবার গণনা হবে না। v0.2.1-এর double-tap save guard সহ। | Bug fix: expense double-count fixed — dedupe-by-id safety net, a once-entered amount can never count twice. Includes v0.2.1 double-tap save guard.",
   "apks": {
-    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.1/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.1/app-armeabi-v7a-release.apk",
-    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.1/app-x86_64-release.apk"
+    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.2/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.2/app-armeabi-v7a-release.apk",
+    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.2/app-x86_64-release.apk"
   }
 }
