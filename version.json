@@ -1,10 +1,10 @@
 {
-  "tag": "v0.2.6",
-  "version": "0.2.6",
-  "changelog": "কুইক-অ্যাড নোটিফিকেশন সরানো হয়েছে। | Removed the quick-add notification.",
+  "tag": "v0.2.7",
+  "version": "0.2.7",
+  "changelog": "আমার টাকা কার্ড: উপরে মোট ব্যালেন্স, হাতের নগদ এডিট করা যাবে, আজ/সপ্তাহ/মাসের খরচের হিসাব। | My Money card: total at the top, hand cash editable, today/week/month spending summary.",
   "apks": {
-    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.6/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.6/app-armeabi-v7a-release.apk",
-    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.6/app-x86_64-release.apk"
+    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.7/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.7/app-armeabi-v7a-release.apk",
+    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2.7/app-x86_64-release.apk"
   }
 }
