@@ -1,10 +1,10 @@
 {
-  "tag": "v0.1.1",
-  "version": "0.1.1",
-  "changelog": "Light mode-e chip text fix: payment method ar home filter chip-er lekha ekhon dark green, readable. Same signing key — no re-login/data loss.",
+  "tag": "v0.2",
+  "version": "0.2.0",
+  "changelog": "৩০+ নতুন ফিচার: ধার/বাকি ট্র্যাকিং, split bill, subscriptions, calendar view, AI spending insights, monthly auto-report, home widget, quick templates, receipt gallery, animated budgets, wishlist, Drive auto-backup, salary planner, voice report, smart search, geofence reminders, OCR autofill, mood tags, SMS smart parse, multi-currency, achievements, no-spend challenges, expense map, fuel log, shopping list, gift tracker, travel projects, ২১টি ভাষা, সম্পূর্ণ নতুন ডিজাইন + onboarding. Same signing key — no re-login/data loss. / 30+ new features and a full redesign — same signing key, clean update.",
   "apks": {
-    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.1.1/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.1.1/app-armeabi-v7a-release.apk",
-    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.1.1/app-x86_64-release.apk"
+    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2/app-armeabi-v7a-release.apk",
+    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.2/app-x86_64-release.apk"
   }
 }
