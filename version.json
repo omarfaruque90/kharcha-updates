@@ -1,1 +1,10 @@
-{"apks": {"arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.6/app-arm64-v8a-release.apk", "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.6/app-armeabi-v7a-release.apk", "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.6/app-x86_64-release.apk"}, "changelog": "এক্সাক্ট রেপ্লিকা ন্যাভবার — রয়্যাল-ব্লু অর্ব, নিয়ন-গ্রিন ইন্ডিকেটর, ফ্লুইড মর্ফ অ্যানিমেশন। | Exact-replica navbar — royal-blue orb, neon-green indicator, fluid morph animations.", "tag": "v0.0.0.6", "version": "0.0.0.6"}
+{
+  "apks": {
+    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.7/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.7/app-armeabi-v7a-release.apk",
+    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.7/app-x86_64-release.apk"
+  },
+  "changelog": "ন্যাভবার মরফ অ্যানিমেশন আপগ্রেড — ড্রামাটিক টিল্ট + বাউন্স + ওবল, 550ms ফ্লুইড মোশন। | Navbar morph animation upgrade — dramatic tilt + bounce + wobble, 550ms fluid motion.",
+  "tag": "v0.0.0.7",
+  "version": "0.0.0.7"
+}
