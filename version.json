@@ -1,10 +1,10 @@
 {
   "apks": {
-    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.8/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.8/app-armeabi-v7a-release.apk",
-    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.8/app-x86_64-release.apk"
+    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.9/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.9/app-armeabi-v7a-release.apk",
+    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.9/app-x86_64-release.apk"
   },
-  "changelog": "নেভবার ব্যাকগ্রাউন্ড বার সম্পূর্ণ সরানো — এখন শুধু ভাসমান আইকন; AI 429 retry + অফলাইন ফলব্যাক। | Navbar background bar fully removed — floating icons only; AI 429 retry + offline fallback.",
-  "tag": "v0.0.0.8",
-  "version": "0.0.0.8"
+  "changelog": "নেভবার হুবহু নতুন ডিজাইন — ডার্ক পিল, বড় নীল অর্ব, সবুজ গ্লো ইন্ডিকেটর, ৫ ট্যাব; AI 429 retry + অফলাইন ফলব্যাক; ডিসকাউন্ট অনুবাদ ফিক্স। | Navbar exact-match redesign — dark pill, big blue orb, green glow indicator, 5 tabs; AI 429 retry + offline fallback; discount translation fix.",
+  "tag": "v0.0.0.9",
+  "version": "0.0.0.9"
 }
