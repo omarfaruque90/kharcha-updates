@@ -1,10 +1,1 @@
-{
-  "apks": {
-    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.9/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.9/app-armeabi-v7a-release.apk",
-    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.9/app-x86_64-release.apk"
-  },
-  "changelog": "নেভবার হুবহু নতুন ডিজাইন — ডার্ক পিল, বড় নীল অর্ব, সবুজ গ্লো ইন্ডিকেটর, ৫ ট্যাব; AI 429 retry + অফলাইন ফলব্যাক; ডিসকাউন্ট অনুবাদ ফিক্স। | Navbar exact-match redesign — dark pill, big blue orb, green glow indicator, 5 tabs; AI 429 retry + offline fallback; discount translation fix.",
-  "tag": "v0.0.0.9",
-  "version": "0.0.0.9"
-}
+{"apks":{"arm64-v8a":"https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.1.0/app-arm64-v8a-release.apk","armeabi-v7a":"https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.1.0/app-armeabi-v7a-release.apk","x86_64":"https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.1.0/app-x86_64-release.apk"},"changelog":"নেভবার মোশন অ্যানিমেশন — ট্যাবে ট্যাপ করলে আইকন বাউন্স (৫৫০মি.সে.), টিল্ট/ওয়াবল ইফেক্ট, সবুজ ইন্ডিকেটর স্মুথ স্লাইড। | Navbar motion animations — icon bounce (550ms elastic) on tab tap, tilt/wobble effect, smooth green indicator slide.","tag":"v0.0.1.0","version":"0.0.1.0"}
