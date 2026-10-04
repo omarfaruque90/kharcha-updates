@@ -1,10 +1,1 @@
-{
-  "tag": "v0.0.0.4",
-  "version": "0.0.0.4",
-  "changelog": "স্মার্ট AI, ধার দেওয়া/নেওয়া, ডিসকাউন্ট ক্যালকুলেটর, কাস্টম থিম কালার, পুরো অ্যাপে ভাষা সাপোর্ট। | Smarter AI, Lent/Borrowed tracking, discount calculator, custom theme colors, full-app language support.",
-  "apks": {
-    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.4/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.4/app-armeabi-v7a-release.apk",
-    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.4/app-x86_64-release.apk"
-  }
-}
+{"apks":{"arm64-v8a":"https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.5/app-arm64-v8a-release.apk","armeabi-v7a":"https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.5/app-armeabi-v7a-release.apk","x86_64":"https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.5/app-x86_64-release.apk"},"changelog":"৩৫-টা বাগ ফিক্স (QA অডিট) — critical + high priority সব ঠিক। প্রিমিয়াম ডার্ক ন্যাভবার, iOS-স্টাইল ওভারহল। | 35 bug fixes (QA audit) — all critical + high fixed. Premium dark navbar, iOS-style overhaul.","tag":"v0.0.0.5","version":"0.0.0.5"}
