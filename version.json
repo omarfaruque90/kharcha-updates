@@ -1,10 +1,10 @@
 {
-  "tag": "v0.4.1",
-  "version": "0.4.1",
-  "changelog": "AI অ্যাসিস্ট্যান্ট ফিক্স: সঠিক মডেল + বাংলায় সাজেশন বাটন। | AI assistant fix: working model + translated suggestion chips.",
+  "tag": "v0.0.0.1",
+  "version": "0.0.0.1",
+  "changelog": "ভার্সন v0.0.0.1-এ আপডেট করা হয়েছে। | Version updated to v0.0.0.1.",
   "apks": {
-    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.4.1/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.4.1/app-armeabi-v7a-release.apk",
-    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.4.1/app-x86_64-release.apk"
+    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.1/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.1/app-armeabi-v7a-release.apk",
+    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.1/app-x86_64-release.apk"
   }
 }
