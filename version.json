@@ -1,10 +1,10 @@
 {
   "apks": {
-    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.7/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.7/app-armeabi-v7a-release.apk",
-    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.7/app-x86_64-release.apk"
+    "arm64-v8a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.8/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.8/app-armeabi-v7a-release.apk",
+    "x86_64": "https://github.com/omarfaruque90/kharcha-updates/releases/download/v0.0.0.8/app-x86_64-release.apk"
   },
-  "changelog": "ন্যাভবার মরফ অ্যানিমেশন আপগ্রেড — ড্রামাটিক টিল্ট + বাউন্স + ওবল, 550ms ফ্লুইড মোশন। | Navbar morph animation upgrade — dramatic tilt + bounce + wobble, 550ms fluid motion.",
-  "tag": "v0.0.0.7",
-  "version": "0.0.0.7"
+  "changelog": "নেভবার ব্যাকগ্রাউন্ড বার সম্পূর্ণ সরানো — এখন শুধু ভাসমান আইকন; AI 429 retry + অফলাইন ফলব্যাক। | Navbar background bar fully removed — floating icons only; AI 429 retry + offline fallback.",
+  "tag": "v0.0.0.8",
+  "version": "0.0.0.8"
 }
